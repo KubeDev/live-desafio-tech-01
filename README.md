@@ -1,7 +1,7 @@
 # Desafio Técnico: Implementação de um Cluster Kubernetes com Terraform e Automação via GitHub Actions
 
 Mr. Fusion Solutions, uma startup de tecnologia inovadora no campo de energia, está buscando expandir suas operações e precisa melhorar a qualidade e eficiência de seus processos de desenvolvimento e deployment dos seus softwares. A empresa deseja implementar uma base escalável e robusta usando Kubernetes, que possa suportar o rápido crescimento e a necessidade de atualizações contínuas de suas aplicações.
-E foi definido que você será essa pessoa que vai entregar essa solução escalável para a InovaTech Solutions.
+E foi definido que você será essa pessoa que vai entregar essa solução escalável para a Mr. Fusion Solutions.
 
 ## Objetivo
 
