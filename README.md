@@ -1,6 +1,7 @@
 # Desafio Técnico: Implementação de um Cluster Kubernetes com Terraform e Automação via GitHub Actions
 
-Esse desafio foi resolvido na live abaixo:
+## Esse desafio foi resolvido na live abaixo:
+
 https://www.youtube.com/watch?v=OhV-pXgeVq4
 
 ## Contexto
@@ -22,8 +23,8 @@ O objetivo deste desafio é criar um projeto para provisionar um cluster Kuberne
    - A pipeline deve ser executada sempre que houver alteração na base do projeto Terraform.
 
 3. **Documentação:**
-   - Documente o processo de configuração e os comandos necessários para inicializar e gerenciar o cluster.
-   - Inclua instruções sobre como verificar se o deploy foi bem-sucedido.
+   - Documente o processo de criação e os requisitos necessários para inicializar e gerenciar o cluster.
+   - Inclua possíveis melhorias no projeto.
 
 ## Critérios de Avaliação
 
