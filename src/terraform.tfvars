@@ -11,4 +11,5 @@ aws_project_tags = {
   Terraform   = "true"
   Environment = "producao"
   Project     = "live"
+  Teste     = "ok"
 }
